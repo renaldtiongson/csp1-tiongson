@@ -1,0 +1,72 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+
+.bg-nav{
+	background-color: #0671B7;
+}
+
+.bg-pastelblue, .btn-pastelblue{
+	background-color: #C8E7F5;
+}
+
+.bg-pastelpink{
+	background-color: #F8B7CD;
+}
+
+.nav-title{
+	font-family: 'Pacifico', cursive;
+	font-size: 2rem;
+	color: #C8E7F5;
+}
+
+a:link.nav-title{
+	color: #C8E7F5;
+}
+
+a:visited.nav-title{
+	color: #C8E7F5;
+}
+
+a:hover.nav-title{
+	color: #C8E7F5;
+}
+
+a:active.nav-title{
+	color: #C8E7F5;
+}
+
+.navigation{
+	font-family: 'Lato', sans-serif;
+	font-size: 2rem;
+	color: #C8E7F5;
+}
+
+h2{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 4rem;
+
+}
+
+h3{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: #67A3D9;
+	font-size: 3rem;
+}
+
+p, ul{
+	font-size: 2rem;
+	list-style-type: none
+
+}
+
+
+
+
+
+
+
+
