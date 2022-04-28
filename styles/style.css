@@ -4,6 +4,10 @@
 	padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 
 .bg-nav{
 	background-color: #0671B7;
